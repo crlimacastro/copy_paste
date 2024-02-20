@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b2jjdqlcxo6p3"]
+
+[ext_resource type="Script" path="res://node_clipboard.gd" id="1_hk2tg"]
+
+[node name="NodeClipboard" type="Node"]
+script = ExtResource("1_hk2tg")
